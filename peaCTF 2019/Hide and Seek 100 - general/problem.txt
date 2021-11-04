@@ -1,0 +1,1 @@
+Try to find to the flag file located somewhere in the folders located in: /problems/hide-and-seek_37_c83475f4ab40302738fae22b79d363e6

@@ -1,0 +1,1 @@
+Just a simple type of recursive function. master-ball

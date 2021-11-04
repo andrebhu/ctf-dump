@@ -1,0 +1,3 @@
+A student in Foundations claims he has designed an impenetrable login application using his newly mastered JPanel and JTextField skills. Can you outsmart him and retrieve the correct password?
+
+Note: Java 11.02 or later is required. If you have Java 11.02+ installed and still cannot open the problem, please message an admin on Facebook.

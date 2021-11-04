@@ -1,0 +1,1 @@
+flag{peactf_linux_is_fun_9afcbdf0b095278d6cd1e08a4f056892}
