@@ -1,3 +1,2 @@
-# ctf writeups
-
-Writeups/files for past CTFs
+# ctf dump
+Stuff from CTFs
